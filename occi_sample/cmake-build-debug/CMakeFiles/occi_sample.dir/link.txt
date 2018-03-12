@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/occi_sample.dir/main.cpp.o  -o occi_sample  -L/home/eduardo/Develop/Oracle/instantclient_11_2_OLD -Wl,-rpath,/home/eduardo/Develop/Oracle/instantclient_11_2_OLD -locci -lclntsh 
